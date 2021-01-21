@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/enye-frontend-app/static/css/main.d7ccb984.chunk.css",
+    "main.js": "/enye-frontend-app/static/js/main.9e04944d.chunk.js",
+    "main.js.map": "/enye-frontend-app/static/js/main.9e04944d.chunk.js.map",
+    "runtime-main.js": "/enye-frontend-app/static/js/runtime-main.19c17830.js",
+    "runtime-main.js.map": "/enye-frontend-app/static/js/runtime-main.19c17830.js.map",
+    "static/js/2.ba8308a1.chunk.js": "/enye-frontend-app/static/js/2.ba8308a1.chunk.js",
+    "static/js/2.ba8308a1.chunk.js.map": "/enye-frontend-app/static/js/2.ba8308a1.chunk.js.map",
+    "static/js/3.dc8f01a7.chunk.js": "/enye-frontend-app/static/js/3.dc8f01a7.chunk.js",
+    "static/js/3.dc8f01a7.chunk.js.map": "/enye-frontend-app/static/js/3.dc8f01a7.chunk.js.map",
+    "index.html": "/enye-frontend-app/index.html",
+    "static/css/main.d7ccb984.chunk.css.map": "/enye-frontend-app/static/css/main.d7ccb984.chunk.css.map",
+    "static/js/2.ba8308a1.chunk.js.LICENSE.txt": "/enye-frontend-app/static/js/2.ba8308a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c17830.js",
+    "static/js/2.ba8308a1.chunk.js",
+    "static/css/main.d7ccb984.chunk.css",
+    "static/js/main.9e04944d.chunk.js"
+  ]
+}
